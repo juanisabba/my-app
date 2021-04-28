@@ -53,22 +53,22 @@ export default function App() {
         <div className="Header">
           <ul className="menu">
             <li>
-              <Link to="/portfolio/" className="link">
+              <Link to="/" className="link">
                 HOME
               </Link>
             </li>
             <li>
-              <Link to="/portfolio/about-me" className="link">
+              <Link to="/about-me" className="link">
                 ABOUT ME
               </Link>
             </li>
             <li>
-              <Link to="/portfolio/projects" className="link">
+              <Link to="/projects" className="link">
                 PROJECTS
               </Link>
             </li>
             <li>
-              <Link to="/portfolio/contact" className="link">
+              <Link to="/contact" className="link">
                 CONTACT
               </Link>
             </li>
@@ -79,14 +79,14 @@ export default function App() {
 
         {movilMenu}
 
-        <Route exact path="/portfolio/" component={Home} />
-        <Route exact path="/portfolio/about-me" component={AboutMe} />
-        <Route exact path="/portfolio/projects" component={Projects} />
-        <Route exact path="/portfolio/projects/juaniflix" component={Juaniflix} />
-        <Route exact path="/portfolio/projects/mario-vs-luigi" component={MarioLuigi} />
-        <Route exact path="/portfolio/projects/simon-says" component={SimonSays} />
-        <Route exact path="/portfolio/projects/covid-live-data" component={CovidApi} />
-        <Route exact path="/portfolio/contact" component={Contact} />
+        <Route exact path="/" component={Home} />
+        <Route exact path="/about-me" component={AboutMe} />
+        <Route exact path="/projects" component={Projects} />
+        <Route exact path="/projects/juaniflix" component={Juaniflix} />
+        <Route exact path="/projects/mario-vs-luigi" component={MarioLuigi} />
+        <Route exact path="/projects/simon-says" component={SimonSays} />
+        <Route exact path="/projects/covid-live-data" component={CovidApi} />
+        <Route exact path="/contact" component={Contact} />
       </div>
     </Router>
   );
