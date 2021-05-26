@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.a4c9e182.chunk.css",
-    "main.js": "/my-app/static/js/main.f72d5f80.chunk.js",
-    "main.js.map": "/my-app/static/js/main.f72d5f80.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.61d48cbd.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.61d48cbd.js.map",
+    "main.css": "/my-app/static/css/main.24ef1ec3.chunk.css",
+    "main.js": "/my-app/static/js/main.92462376.chunk.js",
+    "main.js.map": "/my-app/static/js/main.92462376.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.646667c4.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.646667c4.js.map",
     "static/js/2.b93a7ea4.chunk.js": "/my-app/static/js/2.b93a7ea4.chunk.js",
     "static/js/2.b93a7ea4.chunk.js.map": "/my-app/static/js/2.b93a7ea4.chunk.js.map",
-    "static/js/3.1b910e9b.chunk.js": "/my-app/static/js/3.1b910e9b.chunk.js",
-    "static/js/3.1b910e9b.chunk.js.map": "/my-app/static/js/3.1b910e9b.chunk.js.map",
+    "static/js/3.3117eea1.chunk.js": "/my-app/static/js/3.3117eea1.chunk.js",
+    "static/js/3.3117eea1.chunk.js.map": "/my-app/static/js/3.3117eea1.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "static/css/main.a4c9e182.chunk.css.map": "/my-app/static/css/main.a4c9e182.chunk.css.map",
+    "static/css/main.24ef1ec3.chunk.css.map": "/my-app/static/css/main.24ef1ec3.chunk.css.map",
     "static/js/2.b93a7ea4.chunk.js.LICENSE.txt": "/my-app/static/js/2.b93a7ea4.chunk.js.LICENSE.txt",
     "static/media/covidapi.dba61b68.png": "/my-app/static/media/covidapi.dba61b68.png",
     "static/media/flores.cfd99f41.svg": "/my-app/static/media/flores.cfd99f41.svg",
-    "static/media/juani-sabbatini-cv.c0cd341b.pdf": "/my-app/static/media/juani-sabbatini-cv.c0cd341b.pdf",
-    "static/media/juaniflix.05cb9610.png": "/my-app/static/media/juaniflix.05cb9610.png",
+    "static/media/juani-sabbatini-cv.c9c0ca73.pdf": "/my-app/static/media/juani-sabbatini-cv.c9c0ca73.pdf",
+    "static/media/juaniflix.806cfe22.png": "/my-app/static/media/juaniflix.806cfe22.png",
     "static/media/logo.489c45ef.png": "/my-app/static/media/logo.489c45ef.png",
     "static/media/mario-luigi.37e4e7c4.png": "/my-app/static/media/mario-luigi.37e4e7c4.png",
     "static/media/portfolio.f4806fa6.png": "/my-app/static/media/portfolio.f4806fa6.png",
@@ -23,9 +23,9 @@
     "static/media/simon-says.ccd69952.png": "/my-app/static/media/simon-says.ccd69952.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.61d48cbd.js",
+    "static/js/runtime-main.646667c4.js",
     "static/js/2.b93a7ea4.chunk.js",
-    "static/css/main.a4c9e182.chunk.css",
-    "static/js/main.f72d5f80.chunk.js"
+    "static/css/main.24ef1ec3.chunk.css",
+    "static/js/main.92462376.chunk.js"
   ]
 }
