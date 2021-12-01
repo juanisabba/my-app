@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.daaee693.chunk.css",
-    "main.js": "/my-app/static/js/main.c08bedb6.chunk.js",
-    "main.js.map": "/my-app/static/js/main.c08bedb6.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.646667c4.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.646667c4.js.map",
-    "static/js/2.eb17e9e4.chunk.js": "/my-app/static/js/2.eb17e9e4.chunk.js",
-    "static/js/2.eb17e9e4.chunk.js.map": "/my-app/static/js/2.eb17e9e4.chunk.js.map",
-    "static/js/3.3117eea1.chunk.js": "/my-app/static/js/3.3117eea1.chunk.js",
-    "static/js/3.3117eea1.chunk.js.map": "/my-app/static/js/3.3117eea1.chunk.js.map",
+    "main.css": "/my-app/static/css/main.9b33d890.chunk.css",
+    "main.js": "/my-app/static/js/main.cf0610f0.chunk.js",
+    "main.js.map": "/my-app/static/js/main.cf0610f0.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.d77190df.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.d77190df.js.map",
+    "static/js/2.70021252.chunk.js": "/my-app/static/js/2.70021252.chunk.js",
+    "static/js/2.70021252.chunk.js.map": "/my-app/static/js/2.70021252.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "static/css/main.daaee693.chunk.css.map": "/my-app/static/css/main.daaee693.chunk.css.map",
-    "static/js/2.eb17e9e4.chunk.js.LICENSE.txt": "/my-app/static/js/2.eb17e9e4.chunk.js.LICENSE.txt",
+    "static/css/main.9b33d890.chunk.css.map": "/my-app/static/css/main.9b33d890.chunk.css.map",
+    "static/js/2.70021252.chunk.js.LICENSE.txt": "/my-app/static/js/2.70021252.chunk.js.LICENSE.txt",
     "static/media/covidapi.dba61b68.png": "/my-app/static/media/covidapi.dba61b68.png",
     "static/media/flores.cfd99f41.svg": "/my-app/static/media/flores.cfd99f41.svg",
     "static/media/juani-sabbatini-cv.35556a0f.pdf": "/my-app/static/media/juani-sabbatini-cv.35556a0f.pdf",
@@ -20,12 +18,13 @@
     "static/media/mario-luigi.37e4e7c4.png": "/my-app/static/media/mario-luigi.37e4e7c4.png",
     "static/media/portfolio.f4806fa6.png": "/my-app/static/media/portfolio.f4806fa6.png",
     "static/media/profile-pic.780d27fb.jpg": "/my-app/static/media/profile-pic.780d27fb.jpg",
-    "static/media/simon-says.ccd69952.png": "/my-app/static/media/simon-says.ccd69952.png"
+    "static/media/simon-says.ccd69952.png": "/my-app/static/media/simon-says.ccd69952.png",
+    "static/media/spain-flag.c2f05c78.png": "/my-app/static/media/spain-flag.c2f05c78.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.646667c4.js",
-    "static/js/2.eb17e9e4.chunk.js",
-    "static/css/main.daaee693.chunk.css",
-    "static/js/main.c08bedb6.chunk.js"
+    "static/js/runtime-main.d77190df.js",
+    "static/js/2.70021252.chunk.js",
+    "static/css/main.9b33d890.chunk.css",
+    "static/js/main.cf0610f0.chunk.js"
   ]
 }
